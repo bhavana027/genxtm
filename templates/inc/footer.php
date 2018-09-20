@@ -1,7 +1,7 @@
-   </div><!-- /.row -->
-    </main><!-- /.container -->
+
 <footer class="blog-footer">
-      <p>copyright(C) @Rithik </p> 
+      <p style="color: #000000;">copyright(C) @ Rithik </p> 
+        
 </footer>
   	</body>
 	</html>
